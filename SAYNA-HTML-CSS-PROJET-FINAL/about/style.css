@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+        /*header*/
+header {
+    background-color:#d35649;
+    
+}
+#events{
+    margin-left: -40%;
+}
+#nav{
+margin-left: 20%;
+}
+a{
+    padding: 0% 2%;
+}
+/*section*/
+section{
+    margin-top: 5%;
+    background-color: white;
+    border :1px solid rgb(258, 258, 258);
+    box-shadow: 1px 1px 10px 2px rgb(153, 153, 153);
+}
+    /*le footer*/
+footer{
+    background-color: black;
+}
